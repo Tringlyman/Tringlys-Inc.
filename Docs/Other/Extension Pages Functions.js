@@ -1,5 +1,5 @@
 function CopyClipboard(text) {
-    navigator.clipboard.writeText(`https://raw.githubusercontent.com/Tringlyman/Scratch-Extensions/refs/heads/main/Extensions/${text}`)
+    navigator.clipboard.writeText(`https://raw.githubusercontent.com/Tringlyman/docs.Scratch-Extensions/refs/heads/main/Docs/Other/${text}.js`)
 }
 
 function Docs(text) {
