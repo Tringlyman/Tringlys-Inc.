@@ -1,2 +1,2 @@
 # Tringlys-Inc.
-@Tringlyman 's Basic Website
+@Tringlyman's Basic Website
