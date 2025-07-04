@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .ExtStyle {
+            margin-top: 50px;
+    display:block;
+    padding-top: 30px;
+    padding-right: 80px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    background-color: #444444;
+    border: 10px solid #555555;
+    border-radius: 40px;
+    color: #e4e4e4;
+    text-align: middle;
+    font-size: 50px;
+        }
+
+        .grid{
+        grid-template-columns: auto auto auto;
+        display: grid;
+        gap: 30px 15px;
+        }
+
+    .button {
+        display:inline-block;
+        padding-top: 15px;
+        padding-right: 70px;
+        padding-bottom: 15px;
+        padding-left: 70px;
+        background-color: #333333;
+        border: 3px solid #444444;
+        border-radius: 15px;
+        color: lightgray;
+        text-align: middle;
+        text-decoration: solid;
+        font-size: 15px;
+        cursor: pointer;
+        }
+    </style>
+
+<title id="ExtName">PLaceHolder</title>
+</head>
+    <body style="background-color:hsl(0, 0%, 10%);">
+        <center><h1 class="ExtStyle" id="ExtName">PlaceHolder Name</h1></center>
+        <center><h2 class="ExtStyle" id="ExtDesc">PLaceHolder Description</h2></center>
+        <hr style="border: 20px solid hsl(0, 0%, 20%); border-radius: 50px;">
+        <br>
+        <center>
+            <div class="grid">
+            <a class="button" href="../Extensions/PlaceHolder.js" download>Download</a>
+            <a class="button" onclick="CopyClipboard()">Copy URL</a>
+            <a class="button" onclick="Docs()">Doc</a>
+            </div>
+        </center>
+    </body>
+    <script src="index.js"></script>
+</html>
