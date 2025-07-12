@@ -1,0 +1,6 @@
+[
+{
+    "snippet Creator":"Tringlyman",
+    "snippet":"function newLines(amount=1) {\nlet NewLines;\nfor (let index = 0; index < amount; index++) {\nNewLines = NewLines + '\n'\n}\nreturn NewLines"
+}
+]
