@@ -1,10 +1,10 @@
 {
     "Raws":{
-        "Raw":"",
-        "Raw+":""
+        "Raw":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/Raw.1.md",
+        "Raw+":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/Raw+.1.md"
     },
-    "JS":"",
-    "Math":"",
-    "Save":"",
-    "Website":""
+    "JS":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/JS..1md",
+    "Math":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/Math.1.md",
+    "Save":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/Save.1.md",
+    "Website":"https://github.com/Tringlyman/docs.Scratch-Extensions/tree/main/changelog/Website.1.md"
 }
